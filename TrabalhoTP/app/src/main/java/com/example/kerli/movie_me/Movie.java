@@ -17,7 +17,7 @@ public class adicionarImovel extends Activity {
     EditText Filme, Genero, Diretor, Lancamento, Faixa_Etaria;
     Button botaoAdicionarFilme;
     Filme novoFilme;
-
+    add;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
